@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Jeremy
-- 😄 Pronouns: he/him/his
+### Hi there 👋, I'm Jeremy (he/him/his)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jrmypttrsn)
