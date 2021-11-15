@@ -1,5 +1,8 @@
-### Hi there 👋, I'm Jeremy (he/him/his)
-
+### Hi there 👋, I'm <a href="https://jayteapea.com" target="_blank">Jeremy</a>Jeremy (he/him/his)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-patterson-051ab6161/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jayteapea.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jrmypttrsn)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/jrmypttrsn/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jrmypttrsn)
 
